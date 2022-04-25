@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>145921089437-57qo279b0u5q3kj2mvt7fqvlk7v6c0i8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.145921089437-57qo279b0u5q3kj2mvt7fqvlk7v6c0i8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>145921089437-5c4tffriobkg2m4ecsclmorine51g328.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5r1UkqLfEg5_SpyYxqdC4rlwf7TY0WkI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>145921089437</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thrift.store</string>
+	<key>PROJECT_ID</key>
+	<string>mothering-thrift</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mothering-thrift.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:145921089437:ios:f3046a44ed0b597bb31974</string>
+</dict>
+</plist>

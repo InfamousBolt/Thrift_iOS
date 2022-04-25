@@ -1,0 +1,67 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run --release
+
+## exception
+
+SocketException: SocketException: Success (OS Error: Success, errno = 0), port = 0
+
+```
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel stable, 2.10.0, on Ubuntu 20.04.3 LTS 5.13.0-28-generic, locale en_IN)
+    • Flutter version 2.10.0 at /home/shreesoftech/snap/flutter/common/flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision 5f105a6ca7 (2 weeks ago), 2022-02-01 14:15:42 -0800
+    • Engine revision 776efd2034
+    • Dart version 2.16.0
+    • DevTools version 2.9.2
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 31.0.0)
+    • Android SDK at /home/shreesoftech/Android/Sdk
+    • Platform android-32, build-tools 31.0.0
+    • Java binary at: /snap/android-studio/current/android-studio/jre/bin/java
+    • Java version OpenJDK Runtime Environment (build 11.0.11+0-b60-7590822)
+    • All Android licenses accepted.
+
+[✓] Chrome - develop for the web
+    • Chrome at google-chrome
+
+[✓] Android Studio (version 2021.1)
+    • Android Studio at /snap/android-studio/119/android-studio
+    • Flutter plugin version 64.1.2
+    • Dart plugin version 211.7798
+    • Java version OpenJDK Runtime Environment (build 11.0.11+0-b60-7590822)
+
+[✓] Android Studio
+    • Android Studio at /snap/android-studio/current/android-studio
+    • Flutter plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/9212-flutter
+    • Dart plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/6351-dart
+    • android-studio-dir = /snap/android-studio/current/android-studio
+    • Java version OpenJDK Runtime Environment (build 11.0.11+0-b60-7590822)
+
+[✓] VS Code (version 1.60.2)
+    • VS Code at /usr/share/code
+    • Flutter extension version 3.32.0
+
+[✓] VS Code
+    • VS Code at /snap/code/current
+    • Flutter extension version 3.32.0
+
+[✓] Connected device (2 available)
+    • vivo 1804 (mobile) • 192.168.1.14:5555 • android-arm64  • Android 10 (API 29)
+    • Chrome (web)       • chrome            • web-javascript • Google Chrome 96.0.4664.110
+
+[✓] HTTP Host Availability
+    • All required HTTP hosts are available
+
+• No issues found!
+```

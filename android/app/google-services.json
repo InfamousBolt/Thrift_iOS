@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "145921089437",
+    "project_id": "mothering-thrift",
+    "storage_bucket": "mothering-thrift.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145921089437:android:5448db432c453122b31974",
+        "android_client_info": {
+          "package_name": "com.mothering.thrift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145921089437-5c4tffriobkg2m4ecsclmorine51g328.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mothering.thrift",
+            "certificate_hash": "339629bed623336472d51cd780dc9b4449cfa934"
+          }
+        },
+        {
+          "client_id": "145921089437-3vmcfielkvh7ntckc2vbhq5e8cf1hmt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiBt-e3m9B2N3Aa8btOfNfd8dzVIlug50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145921089437-3vmcfielkvh7ntckc2vbhq5e8cf1hmt7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145921089437-5mnhhoo3u61t9h8k1q1081c98h6ue4j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mothering.thrift"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145921089437:android:7b557f13a931eae7b31974",
+        "android_client_info": {
+          "package_name": "com.thrift.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145921089437-3vmcfielkvh7ntckc2vbhq5e8cf1hmt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiBt-e3m9B2N3Aa8btOfNfd8dzVIlug50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145921089437-3vmcfielkvh7ntckc2vbhq5e8cf1hmt7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145921089437-5mnhhoo3u61t9h8k1q1081c98h6ue4j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thrift.store"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
